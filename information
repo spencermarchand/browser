@@ -1,0 +1,3 @@
+This Browser was made using tutorials from this website https://www.geeksforgeeks.org/creating-a-tabbed-browser-using-pyqt5/ 
+and some help from stack overflow https://stackoverflow.com/questions/51881088/python-pyqt-web-browser-bookmarks
+I also added some shortcut key functionality
