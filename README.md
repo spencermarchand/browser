@@ -1,2 +1,2 @@
 # browser
-Very simple browser I made following tutorials
+Very simple browser I made using pyqt5
